@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 
-# gem 'pg', '~> 0.21'
+gem 'pg', '~> 0.21'
 gem 'will_paginate', '~> 3.1.0'
 gem 'faker'
 gem 'bootstrap-sass'
